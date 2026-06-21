@@ -10048,6 +10048,9 @@ hr.light {
 header.dopiano {
   background: linear-gradient(to bottom, rgb(0 0 0 / 23%) 0%, rgb(0 0 0 / 48%) 100%), url(./../games/dopiano/images/masthead.jpg);
 }
+header.letsnes {
+  background: linear-gradient(to bottom, rgb(0 0 0 / 23%) 0%, rgb(0 0 0 / 48%) 100%), url(./../games/letsnes/images/preview.jpg);
+}
 header.unichariot {
   background: linear-gradient(to bottom, rgb(0 0 0 / 23%) 0%, rgb(0 0 0 / 48%) 100%), url(./../games/unichariot/images/masthead.jpg);
 }
